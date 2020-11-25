@@ -28,6 +28,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ajpig\OneDrive\Documenten\Code Projects\Git Projects\Python\PythonGoGameDeepLearning\dlgo" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606235766186</updated>
       <workItem from="1606235767254" duration="4460000" />
+      <workItem from="1606286756460" duration="1775000" />
     </task>
     <servers />
   </component>
